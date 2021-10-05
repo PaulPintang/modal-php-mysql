@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Generation Time: Oct 05, 2021 at 08:03 AM
+-- Generation Time: Oct 05, 2021 at 03:48 PM
 -- Server version: 10.4.20-MariaDB
 -- PHP Version: 8.0.9
 
@@ -37,7 +37,7 @@ CREATE TABLE `data` (
 --
 
 INSERT INTO `data` (`id`, `name`) VALUES
-(1, 'Paul'),
+(1, 'Paul '),
 (2, 'Justin');
 COMMIT;
 
